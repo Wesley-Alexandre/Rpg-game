@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ficha de Personagem RPG</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ficha de Personagem RPG</h1>
+        <button onclick="gerarFicha()">Gerar Ficha Aleatória</button>
+        <div id="ficha" class="ficha" style="display:none;">
+            <h2>Ficha Gerada</h2>
+            <div class="atributos">
+                <div class="atributo">
+                    <strong>Nome:</strong> <span id="nome"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Classe:</strong> <span id="classe"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Raça:</strong> <span id="raca"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Força:</strong> <span id="forca"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Destreza:</strong> <span id="destreza"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Constituição:</strong> <span id="constituicao"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Inteligência:</strong> <span id="inteligencia"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Sabedoria:</strong> <span id="sabedoria"></span>
+                </div>
+                <div class="atributo">
+                    <strong>Carisma:</strong> <span id="carisma"></span>
+                </div>
+            </div>
+            <button onclick="gerarFicha()">Gerar Nova Ficha</button>
+        </div>
+        
+        <h2>Rolagem de Dados RPG</h2>
+        <div>
+            <button onclick="rolarDado('d20')">Rolar d20</button>
+            <button onclick="rolarDado('d6')">Rolar d6</button>
+            <button onclick="rolarDado('d4')">Rolar d4</button>
+            <button onclick="rolarDado('d8')">Rolar d8</button>
+            <button onclick="rolarDado('d10')">Rolar d10</button>
+            <button onclick="rolarDado('d12')">Rolar d12</button>
+            <button onclick="rolarDado('d100')">Rolar d100</button>
+        </div>
+
+        <div id="resultado">
+            <h3>Resultado da Rolagem:</h3>
+            <p id="resultado-texto">Escolha um dado para rolar!</p>
+        </div>
+    </div>
+
+    <script>
+        function gerarFicha() {
+            fetch('http://localhost:5089/api/ficha/gerar')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('ficha').style.display = 'block';
+                    document.getElementById('nome').innerHTML = data.nome;
+                    document.getElementById('classe').innerHTML = data.classe;
+                    document.getElementById('raca').innerHTML = data.raca;
+                    document.getElementById('forca').innerHTML = data.forca;
+                    document.getElementById('destreza').innerHTML = data.destreza;
+                    document.getElementById('constituicao').innerHTML = data.constituicao;
+                    document.getElementById('inteligencia').innerHTML = data.inteligencia;
+                    document.getElementById('sabedoria').innerHTML = data.sabedoria;
+                    document.getElementById('carisma').innerHTML = data.carisma;
+                })
+                .catch(error => console.error('Erro ao gerar ficha:', error));
+        }
+
+        function rolarDado(tipo) {
+            fetch(`http://localhost:5089/api/rolagem/rolar/${tipo}`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('resultado-texto').textContent = `Resultado do ${tipo.toUpperCase()}: ${data}`;
+                })
+                .catch(error => console.error('Erro ao rolar dado:', error));
+        }
+    </script>
+</body>
+</html>

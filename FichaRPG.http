@@ -1,0 +1,6 @@
+@FichaRPG_HostAddress = http://localhost:5089
+
+GET {{FichaRPG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9YTBoiSbng=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\FichaRPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wasca\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\wasca\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
