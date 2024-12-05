@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SRD+ju+L/dzE/yGndXPEga8yTmpf1F6wQtk6TEd4Wfc=",
+  "Hash": "H+NjN0eWFjh7YiDQQdTDsCAzIy1vZd+23S7nV/+usis=",
   "Source": "FichaRPG",
   "BasePath": "_content/FichaRPG",
   "Mode": "Default",
@@ -17,12 +17,33 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-wvq8ir9a4e.gz",
+      "Identity": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\6koa5p4t5f-7rmby95hkx.gz",
       "SourceId": "FichaRPG",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/FichaRPG",
-      "RelativePath": "index#[.{fingerprint=wvq8ir9a4e}]?.html.gz",
+      "RelativePath": "css/style#[.{fingerprint=7rmby95hkx}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wfqqlwfbqz",
+      "Integrity": "pJK5uxzpZlakmBYL2vr36wn2aosWxprA8D258PTDNIo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-8svsrt058n.gz",
+      "SourceId": "FichaRPG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FichaRPG",
+      "RelativePath": "index#[.{fingerprint=8svsrt058n}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,32 +52,32 @@
       "RelatedAsset": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nbgymsxg8f",
-      "Integrity": "3aKgmP5S35qsBvy4I4DxD63RvvDoLygsi+8eyzH2Oek=",
+      "Fingerprint": "q98b5dvxsu",
+      "Integrity": "nqdfyplwJK546mSlWoghXkjUqGbdybPLJgQLATwVHBw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\s7v7ar4s9l-b825u912dx.gz",
+      "Identity": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\css\\style.css",
       "SourceId": "FichaRPG",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\",
       "BasePath": "_content/FichaRPG",
-      "RelativePath": "style#[.{fingerprint=b825u912dx}]?.css.gz",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
-      "AssetRole": "Alternative",
+      "AssetRole": "Primary",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\style.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "fcylib09aw",
-      "Integrity": "Hz8MDXPYNuJ6svmRy2qUOgiCsPoidjLZRm/DDI9XCOs=",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7rmby95hkx",
+      "Integrity": "DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\style.css"
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html",
@@ -73,43 +94,22 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wvq8ir9a4e",
-      "Integrity": "HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM=",
+      "Fingerprint": "8svsrt058n",
+      "Integrity": "GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\style.css",
-      "SourceId": "FichaRPG",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\",
-      "BasePath": "_content/FichaRPG",
-      "RelativePath": "style#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "b825u912dx",
-      "Integrity": "i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\style.css"
     }
   ],
   "Endpoints": [
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-wvq8ir9a4e.gz",
+      "Route": "css/style.7rmby95hkx.css",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\6koa5p4t5f-7rmby95hkx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001002004008"
+          "Quality": "0.001831501832"
         }
       ],
       "ResponseHeaders": [
@@ -119,15 +119,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "997"
+          "Value": "545"
         },
         {
           "Name": "ETag",
-          "Value": "\"3aKgmP5S35qsBvy4I4DxD63RvvDoLygsi+8eyzH2Oek=\""
+          "Value": "\"pJK5uxzpZlakmBYL2vr36wn2aosWxprA8D258PTDNIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:51:23 GMT"
+          "Value": "Thu, 05 Dec 2024 19:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rmby95hkx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.7rmby95hkx.css",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rmby95hkx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.7rmby95hkx.css.gz",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\6koa5p4t5f-7rmby95hkx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJK5uxzpZlakmBYL2vr36wn2aosWxprA8D258PTDNIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7rmby95hkx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJK5uxzpZlakmBYL2vr36wn2aosWxprA8D258PTDNIo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\6koa5p4t5f-7rmby95hkx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001831501832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJK5uxzpZlakmBYL2vr36wn2aosWxprA8D258PTDNIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:10:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -143,22 +304,167 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM=\""
+          "Value": "W/\"DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM="
+          "Value": "sha256-DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk="
         }
       ]
     },
     {
-      "Route": "index.html",
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQI7JLrpgBGpHADc8yl6I3jDTAyPJST9n+Cv7T8t8hk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\6koa5p4t5f-7rmby95hkx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJK5uxzpZlakmBYL2vr36wn2aosWxprA8D258PTDNIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJK5uxzpZlakmBYL2vr36wn2aosWxprA8D258PTDNIo="
+        }
+      ]
+    },
+    {
+      "Route": "index.8svsrt058n.html",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-8svsrt058n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000899280576"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1111"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqdfyplwJK546mSlWoghXkjUqGbdybPLJgQLATwVHBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 19:32:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8svsrt058n"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo="
+        }
+      ]
+    },
+    {
+      "Route": "index.8svsrt058n.html",
       "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -168,7 +474,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4209"
+          "Value": "4930"
         },
         {
           "Name": "Content-Type",
@@ -176,121 +482,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM=\""
+          "Value": "\"GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:51:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-wvq8ir9a4e.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "997"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3aKgmP5S35qsBvy4I4DxD63RvvDoLygsi+8eyzH2Oek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:51:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3aKgmP5S35qsBvy4I4DxD63RvvDoLygsi+8eyzH2Oek="
-        }
-      ]
-    },
-    {
-      "Route": "index.wvq8ir9a4e.html",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-wvq8ir9a4e.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001002004008"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "997"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3aKgmP5S35qsBvy4I4DxD63RvvDoLygsi+8eyzH2Oek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:51:23 GMT"
+          "Value": "Thu, 05 Dec 2024 19:32:52 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wvq8ir9a4e"
+          "Value": "8svsrt058n"
         },
         {
           "Name": "label",
@@ -298,13 +504,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM="
+          "Value": "sha256-GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo="
         }
       ]
     },
     {
-      "Route": "index.wvq8ir9a4e.html",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html",
+      "Route": "index.8svsrt058n.html.gz",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-8svsrt058n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -313,7 +519,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4209"
+          "Value": "1111"
         },
         {
           "Name": "Content-Type",
@@ -321,56 +527,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM=\""
+          "Value": "\"nqdfyplwJK546mSlWoghXkjUqGbdybPLJgQLATwVHBw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:51:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wvq8ir9a4e"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HOgkX9iraPRJdTNT7/Oj93jv+pIzwEFNLCyc1/d2BtM="
-        }
-      ]
-    },
-    {
-      "Route": "index.wvq8ir9a4e.html.gz",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-wvq8ir9a4e.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "997"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3aKgmP5S35qsBvy4I4DxD63RvvDoLygsi+8eyzH2Oek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:51:23 GMT"
+          "Value": "Thu, 05 Dec 2024 19:32:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -388,7 +549,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wvq8ir9a4e"
+          "Value": "8svsrt058n"
         },
         {
           "Name": "label",
@@ -396,18 +557,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3aKgmP5S35qsBvy4I4DxD63RvvDoLygsi+8eyzH2Oek="
+          "Value": "sha256-nqdfyplwJK546mSlWoghXkjUqGbdybPLJgQLATwVHBw="
         }
       ]
     },
     {
-      "Route": "style.b825u912dx.css",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\s7v7ar4s9l-b825u912dx.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-8svsrt058n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001824817518"
+          "Quality": "0.000899280576"
         }
       ],
       "ResponseHeaders": [
@@ -417,176 +578,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "1111"
         },
         {
           "Name": "ETag",
-          "Value": "\"Hz8MDXPYNuJ6svmRy2qUOgiCsPoidjLZRm/DDI9XCOs=\""
+          "Value": "\"nqdfyplwJK546mSlWoghXkjUqGbdybPLJgQLATwVHBw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:41:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b825u912dx"
-        },
-        {
-          "Name": "label",
-          "Value": "style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk="
-        }
-      ]
-    },
-    {
-      "Route": "style.b825u912dx.css",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1584"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:41:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b825u912dx"
-        },
-        {
-          "Name": "label",
-          "Value": "style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk="
-        }
-      ]
-    },
-    {
-      "Route": "style.b825u912dx.css.gz",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\s7v7ar4s9l-b825u912dx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Hz8MDXPYNuJ6svmRy2qUOgiCsPoidjLZRm/DDI9XCOs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:41:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b825u912dx"
-        },
-        {
-          "Name": "label",
-          "Value": "style.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hz8MDXPYNuJ6svmRy2qUOgiCsPoidjLZRm/DDI9XCOs="
-        }
-      ]
-    },
-    {
-      "Route": "style.css",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\s7v7ar4s9l-b825u912dx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001824817518"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "547"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Hz8MDXPYNuJ6svmRy2qUOgiCsPoidjLZRm/DDI9XCOs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:41:45 GMT"
+          "Value": "Thu, 05 Dec 2024 19:32:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -602,23 +602,23 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk=\""
+          "Value": "W/\"GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk="
+          "Value": "sha256-GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo="
         }
       ]
     },
     {
-      "Route": "style.css",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\style.css",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -627,19 +627,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1584"
+          "Value": "4930"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk=\""
+          "Value": "\"GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:41:45 GMT"
+          "Value": "Thu, 05 Dec 2024 19:32:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -649,13 +649,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i8yw3VxxWbt6J/hhoPvED49RWEaSmMUzyIb6JVqBbyk="
+          "Value": "sha256-GKFnfA6CUVevWSgauYstCZp0m0pGYmoFyU+UmApThSo="
         }
       ]
     },
     {
-      "Route": "style.css.gz",
-      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\s7v7ar4s9l-b825u912dx.gz",
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\obj\\Debug\\net9.0\\compressed\\p7grl6hqod-8svsrt058n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -664,19 +664,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "547"
+          "Value": "1111"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"Hz8MDXPYNuJ6svmRy2qUOgiCsPoidjLZRm/DDI9XCOs=\""
+          "Value": "\"nqdfyplwJK546mSlWoghXkjUqGbdybPLJgQLATwVHBw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 18:41:45 GMT"
+          "Value": "Thu, 05 Dec 2024 19:32:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -694,7 +694,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hz8MDXPYNuJ6svmRy2qUOgiCsPoidjLZRm/DDI9XCOs="
+          "Value": "sha256-nqdfyplwJK546mSlWoghXkjUqGbdybPLJgQLATwVHBw="
         }
       ]
     }

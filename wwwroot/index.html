@@ -43,7 +43,7 @@
             </div>
             <button onclick="gerarFicha()">Gerar Nova Ficha</button>
         </div>
-        
+
         <h2>Rolagem de Dados RPG</h2>
         <div>
             <button onclick="rolarDado('d20')">Rolar d20</button>
@@ -59,11 +59,18 @@
             <h3>Resultado da Rolagem:</h3>
             <p id="resultado-texto">Escolha um dado para rolar!</p>
         </div>
+
+        <h2>Iniciar Combate</h2>
+        <button onclick="iniciarCombate()">Iniciar Combate</button>
+        <div id="resultado-combate">
+            <h3>Resultado do Combate:</h3>
+            <p id="resultado-combate-texto">Clique em "Iniciar Combate" para ver o resultado!</p>
+        </div>
     </div>
 
     <script>
         function gerarFicha() {
-            fetch('http://localhost:5089/api/ficha/gerar')
+            fetch('http://localhost:5089/api/ficha/gerar')  // Corrigido para URL correta
                 .then(response => response.json())
                 .then(data => {
                     document.getElementById('ficha').style.display = 'block';
@@ -87,6 +94,15 @@
                     document.getElementById('resultado-texto').textContent = `Resultado do ${tipo.toUpperCase()}: ${data}`;
                 })
                 .catch(error => console.error('Erro ao rolar dado:', error));
+        }
+
+        function iniciarCombate() {
+            fetch('http://localhost:5089/api/combate/combater')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('resultado-combate-texto').textContent = data;
+                })
+                .catch(error => console.error('Erro ao iniciar combate:', error));
         }
     </script>
 </body>

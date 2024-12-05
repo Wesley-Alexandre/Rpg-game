@@ -16,8 +16,10 @@ C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\Fic
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\FichaRPG.csproj.CoreCompileInputs.cache
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\FichaRPG.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\FichaRPG.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\FichaRPG.sourcelink.json
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\scopedcss\bundle\FichaRPG.styles.css
-C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\compressed\p7grl6hqod-wvq8ir9a4e.gz
+C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\compressed\6koa5p4t5f-7rmby95hkx.gz
+C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\compressed\p7grl6hqod-8svsrt058n.gz
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -33,4 +35,3 @@ C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\ref
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\FichaRPG.pdb
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\FichaRPG.genruntimeconfig.cache
 C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\ref\FichaRPG.dll
-C:\Users\wasca\OneDrive\Área de Trabalho\FichaRPG\FichaRPG\obj\Debug\net9.0\compressed\s7v7ar4s9l-b825u912dx.gz

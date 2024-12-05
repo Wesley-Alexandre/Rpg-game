@@ -1,12 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\style.css",
-      "PackagePath": "staticwebassets\\style.css"
+      "Id": "C:\\Users\\wasca\\OneDrive\\Área de Trabalho\\FichaRPG\\FichaRPG\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.FichaRPG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
