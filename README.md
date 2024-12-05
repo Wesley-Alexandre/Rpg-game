@@ -21,9 +21,3 @@ Este projeto é uma aplicação web que permite gerar fichas aleatórias para pe
 
 - **.NET 6 SDK** (ou superior) instalado.
 - **Node.js** (caso queira usar ferramentas de build específicas para frontend, como o Live Server, por exemplo).
-
-### Passos
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/ficharpg.git
